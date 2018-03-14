@@ -17,12 +17,17 @@ This report shows the background information about this area of research and set
 
 Benefits of AOP
 
-•	Solve the problem of cross cutting procedures: As mentioned in the above section of limitations of oop , we found out that oop does’t have any six special way to solve the problemof crosscutting procedures,so AOP overcome this problem.
-•	Modularity: It lets the developer better separate tasks that should not be inextricably tangled such as mathematical operations and exceptional handling.
-•	Performance: It improves performance because the operations are more succinct.
-•	Development Time and Maintenance Time: It allows programmers to spend less time rewriting the same code .overall AOP enables better encapsulation of distinct procedures and promotes future interoperation hence maintenance is comparatively easy. 
-•	Functionality: Using aspects it is possible to add new functionality without modifying the base program.
-•	Testing: AOP can be used with software testing .Advices can be bound to method calls to measure invocation counts and execution time.
+1.	Solve the problem of cross cutting procedures: As mentioned in the above section of limitations of oop , we found out that oop does’t have any six special way to solve the problemof crosscutting procedures,so AOP overcome this problem.
+
+2.	Modularity: It lets the developer better separate tasks that should not be inextricably tangled such as mathematical operations and exceptional handling.
+
+3.	Performance: It improves performance because the operations are more succinct.
+
+4. Development Time and Maintenance Time: It allows programmers to spend less time rewriting the same code .overall AOP enables better encapsulation of distinct procedures and promotes future interoperation hence maintenance is comparatively easy. 
+
+5. Functionality: Using aspects it is possible to add new functionality without modifying the base program.
+
+6. Testing: AOP can be used with software testing .Advices can be bound to method calls to measure invocation counts and execution time.
 
 
 
